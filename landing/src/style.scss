@@ -1,0 +1,42 @@
+//colores
+$shappire: #313F99;
+$primary: $shappire;
+
+//fuentes
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap');
+$font-family-sans-serif: 'Montserrat', sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700,800&display=swap');
+
+//tipografía
+$headings-font-family: 'Poppins', sans-serif;
+$font-size-base: 1.125rem; //18px
+
+//Botones
+$border-radius: 20px;
+$btn-padding-y: 5px;
+$btn-padding-x: 60px;
+$btn-font-weight: 400;
+$btn-border-width: 2px;
+$input-border-color: red;
+
+//Importar bootstrap
+@import "bootstrap/bootstrap";
+
+//sobreescritura de tipografía
+h2 {
+    font-weight: 400;
+}
+h3 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 300;
+}
+
+.styleguide {
+    section {
+        margin-bottom: 60px;
+        margin-top: 40px;
+    }
+}
