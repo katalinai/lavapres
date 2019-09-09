@@ -9,6 +9,160 @@
 	],
 "creatorBuild": "31491",
 "files": {
+	"/assets/bgcloud.png": {
+		"ft": 32768,
+		"iS": 13998,
+		"oA": 0,
+		"oAP": "/assets/bgcloud.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/c.png": {
+		"ft": 32768,
+		"iS": 45082,
+		"oA": 0,
+		"oAP": "/assets/c.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/Copia de E.png": {
+		"ft": 32768,
+		"iS": 796,
+		"oA": 0,
+		"oAP": "/assets/Copia de E.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/E.png": {
+		"ft": 32768,
+		"iS": 692,
+		"oA": 0,
+		"oAP": "/assets/E.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img0.png": {
+		"ft": 32768,
+		"iS": 28477,
+		"oA": 0,
+		"oAP": "/assets/img0.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img1.png": {
+		"ft": 32768,
+		"iS": 15293,
+		"oA": 0,
+		"oAP": "/assets/img1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img2.png": {
+		"ft": 32768,
+		"iS": 23589,
+		"oA": 0,
+		"oAP": "/assets/img2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/imghero.png": {
+		"ft": 32768,
+		"iS": 81712,
+		"oA": 0,
+		"oAP": "/assets/imghero.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/lavaexpres.jpg": {
+		"ft": 16384,
+		"iS": 38815,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/lavaexpres.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/lavapres-logo-01.png": {
+		"ft": 32768,
+		"iS": 31832,
+		"oA": 0,
+		"oAP": "/assets/lavapres-logo-01.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/lavapres-logo-02.png": {
+		"ft": 32768,
+		"iS": 8034,
+		"oA": 0,
+		"oAP": "/assets/lavapres-logo-02.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/lavapres-logo-03.png": {
+		"ft": 32768,
+		"iS": 1488,
+		"oA": 0,
+		"oAP": "/assets/lavapres-logo-03.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/lavapres-logo-04.png": {
+		"ft": 32768,
+		"iS": 901,
+		"oA": 0,
+		"oAP": "/assets/lavapres-logo-04.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/twitter.png": {
+		"ft": 32768,
+		"iS": 2149,
+		"oA": 0,
+		"oAP": "/assets/twitter.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -16,6 +170,19 @@
 		"oA": 0,
 		"oAP": "/index.html",
 		"oF": 0
+		},
+	"/src/_home.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/src/_home.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"/src/bootstrap/_alert.scss": {
 		"aP": 0,
@@ -1187,6 +1354,14 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/styleguide.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/styleguide.html",
+		"oF": 0
+		},
 	"/styles/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
@@ -1213,7 +1388,7 @@
 "projectAttributes": {
 	"creationDate": 589668769.40226901,
 	"displayValue": "landing",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets-tar",
 	"iconImageWasSetByUser": 0,
 	"lastBuiltDate": 589669127.997293
