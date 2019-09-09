@@ -1,7 +1,21 @@
 //colores
 $shappire: #313F99;
+$mantle: #84948d;
+$darkshade: #33b0bc;
+$dark: #000000;
+$morningglory: #8ed7df;
+$bluebell: #9797cb;
+$powderblue: #b3e4e9;
 $primary: $shappire;
-
+$theme-colors: (
+    "shappire": $shappire,
+    "mantle": $mantle,
+    "darkshade": $darkshade,
+    "dark": $dark,
+    "morningglory": $morningglory,
+    "bluebell" : $bluebell,
+    "powderblue": $powderblue,
+    );
 //fuentes
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap');
 $font-family-sans-serif: 'Montserrat', sans-serif;
@@ -39,4 +53,11 @@ p {
         margin-bottom: 60px;
         margin-top: 40px;
     }
+}
+
+.color-box {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    margin-right: 15px;
 }
