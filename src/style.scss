@@ -39,13 +39,15 @@ $font-size-base: 1.125rem; //18px
 //Botones
 $border-radius: 20px;
 $border-radius-sm: 20px;
-$btn-padding-y: 5px;
+$btn-padding-y: 7px;
 $btn-padding-x: 60px;
-$btn-padding-y-sm: 5px;          
+$btn-padding-y-sm: 7px;          
 $btn-padding-x-sm: 60px;
 $btn-font-weight: 400;
 $btn-border-width: 2px;
-$input-border-color: red;
+
+//iconos
+@import "open-iconic-bootstrap.scss";
 
 //Importar bootstrap
 @import "bootstrap/bootstrap";

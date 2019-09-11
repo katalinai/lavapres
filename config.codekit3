@@ -9,6 +9,24 @@
 	],
 "creatorBuild": "31491",
 "files": {
+	"/app/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/app/index.html",
+		"oF": 0
+		},
+	"/assets/add_shopping_cart.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/add_shopping_cart.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/assets/bgcloud.png": {
 		"ft": 32768,
 		"iS": 13998,
@@ -47,6 +65,17 @@
 		"iS": 692,
 		"oA": 0,
 		"oAP": "/assets/E.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img-torres.png": {
+		"ft": 32768,
+		"iS": 31416,
+		"oA": 0,
+		"oAP": "/assets/img-torres.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -152,6 +181,72 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/logo-bco.png": {
+		"ft": 32768,
+		"iS": 1238,
+		"oA": 0,
+		"oAP": "/assets/logo-bco.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/paquete1-img.png": {
+		"ft": 32768,
+		"iS": 109051,
+		"oA": 0,
+		"oAP": "/assets/paquete1-img.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/paquete2-img.png": {
+		"ft": 32768,
+		"iS": 103214,
+		"oA": 0,
+		"oAP": "/assets/paquete2-img.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/paquete3-img.png": {
+		"ft": 32768,
+		"iS": 115978,
+		"oA": 0,
+		"oAP": "/assets/paquete3-img.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/torreA.png": {
+		"ft": 32768,
+		"iS": 14565,
+		"oA": 0,
+		"oAP": "/assets/torreA.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/torreB.png": {
+		"ft": 32768,
+		"iS": 16039,
+		"oA": 0,
+		"oAP": "/assets/torreB.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/twitter.png": {
 		"ft": 32768,
 		"iS": 2149,
@@ -162,6 +257,48 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/fonts/open-iconic.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/open-iconic.eot",
+		"oF": 0
+		},
+	"/fonts/open-iconic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/open-iconic.otf",
+		"oF": 0
+		},
+	"/fonts/open-iconic.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/fonts/open-iconic.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/fonts/open-iconic.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/open-iconic.ttf",
+		"oF": 0
+		},
+	"/fonts/open-iconic.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/open-iconic.woff",
+		"oF": 0
 		},
 	"/index.html": {
 		"cB": 0,
@@ -199,6 +336,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/src/_home.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/src/_open-iconic-bootstrap.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/src/_open-iconic-bootstrap.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
