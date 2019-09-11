@@ -171,6 +171,25 @@
 		"oAP": "/index.html",
 		"oF": 0
 		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/src/_home.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1362,14 +1381,6 @@
 		"oAP": "/styleguide.html",
 		"oF": 0
 		},
-	"/styles/.gitignore": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/styles/.gitignore",
-		"oF": 0
-		},
 	"/styles/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1686,7 +1697,7 @@
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
 	"buildFolderActive": 0,
-	"buildFolderName": "styles",
+	"buildFolderName": "build",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -3451,7 +3462,7 @@
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
-	"sourceFolderName": "src",
+	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"tsAllowSyntheticDefaultImports": 0,
 	"tsAllowUnreachableCode": 0,
