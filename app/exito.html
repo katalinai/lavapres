@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../styles/style.css">
+    <style>
+        .color-white{
+            color:white;
+        }
+        .bg-degradado{
+            background: -prefix-linear-gradient(top, #8ED7DF, #313F99);
+            background: linear-gradient(to bottom, #8ED7DF, #313F99);
+            color: white;
+            padding: 0px 20px 0px 20px;
+            height: 50px;
+            border: none;
+            border-radius: 25px; 
+        }  
+        .mensaje-exitoso{
+            font-size: 24px;
+        }      
+    </style>
+    
+    <title>Lavapres</title>
+</head>
+<body class="bg-shappire">
+    <div class="bg-shappire">
+        <!--CONTAINER-->
+        <!-- ICONO LAVAPRES -->
+        <section class="row">
+                <div class="col ">
+                    <img class="mt-5 rounded mx-auto d-block" src="../assets/icono-lavapres-blanco.svg" alt="icono lavapres blanco" 
+                    width="100px">
+                </div>    
+        </section>
+        <!---ICONO LAVAPRES-->
+        <!-- MENSAJE LISTO-->
+        <div class="container text-primary text-center mt-5">
+            <h1 class="color-white mensaje-exitoso">¡LISTO!</h1>
+            <p class="color-white font-weight-bold">TU PEDIDO FUE EXITOSO</p>
+        </div>
+        <!--END MENSAJE LISTO-->
+        <!--FOLIO-->
+        <div class="container text-primary text-center mt-3">
+            <h1 class="text-success mensaje-exitoso">FOLIO A0984532</h1>
+            <p class="text-success small font-weight-bold mt-3" >Recuerda tener tu paquete el día</p>
+        </div>  
+        <section class="row justify-content-center mt-n3">
+                <div>
+                    <img  src="../assets/calendario.svg" alt="icono lavapres blanco" width="40px">
+                </div>
+                <div>
+                    <p class="text-success text-left small font-weight-bold" >Sábado 21 de septiembre <br> 17:00</p>
+                </div>
+        </section>
+        <!--END FOLIO-->
+        <!--BOTONE NUEVO PEDIDO-->
+        <div class="text-center mt-4">
+            <button type="button" class="btn bg-degradado "><span class=" small font-weight-bold">Nuevo pedido</span></button>
+        </div>
+        <!--BONTON CERRAR-->
+        <div class="text-center  font-weight-bold mt-3">  
+            <button type="button" class="btn btn-primary "><span class="small font-weight-bold">Cerrar</span></button>
+        </div>  
+    </div>    
+</body>
+</html>
