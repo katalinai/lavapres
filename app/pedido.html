@@ -10,12 +10,14 @@
     .text-white{
       color:white;
     }
-    .bg-degradado{
+    .bg-degradado-pedido{
             background: -prefix-linear-gradient(top, #8ED7DF, #313F99);
             background: linear-gradient(to bottom, #8ED7DF, #313F99);
             color: white;
+            font-size: 1.6rem;
             padding: 0px 20px 0px 20px;
-            height: 50px;
+            height: 43px;
+            width: 200px;
             border: none;
             border-radius: 25px; 
         }  
@@ -34,7 +36,7 @@
       <h1>TU PEDIDO ES</h1>
   </div>
 
-  <div class="container text-primary pr-5 pl-5 px-5">
+  <div class="container text-primary pr-5 pl-5 px-5 strong">
     <p>
       <strong>Paquete 1</strong> <br />
       La bolsa puede contener 10 prendas
@@ -50,19 +52,17 @@
       Torre A &nbsp;&nbsp; Apartamento 28</p>
     <!--End Edificio A-->
     <!--Recoleccion-->
-      <p class="text-mantle mt-3">Recolección</p>
-      <br/>
+      <p class="text-mantle mt-1">Recolección</p>
       <section class="row justify-content-center mt-n3">
-        <div>
-            <img  src="../assets/calendario.svg" alt="icono lavapres" width="40px">
-        </div>
-        <div>
-            <p class="text-mantle text-left small font-weight-bold" >Sábado 7 de septiembre <br> 17:00</p>
-        </div>
-        <p></p>
+          <div>
+              <img  src="../assets/calendario.svg" alt="icono lavapres" width="40px">
+          </div>
+          <div>
+              <p class="text-mantle text-left small font-weight-bold" >Sábado 7 de septiembre <br> 17:00</p>
+          </div>
+          <p></p>
       </section>
-      <p class="text-mantle mt-3">Entrega</p>
-      <br/>
+      <p class="text-mantle mt-1">Entrega</p>
       <section class="row justify-content-center mt-n3">
         <div>
             <img src="../assets/calendario.svg" alt="icono lavapres" width="40px">
@@ -79,11 +79,8 @@
     <!--End Total a pagar-->
     <!--Boton Total a pagar-->
       <div>
-          <button type="button" class="btn bg-degradado ">
-            <h2>
-            <span class="font-weight-bold">
-            &nbsp;&nbsp;&nbsp;$ 129&nbsp;&nbsp;&nbsp;</span>
-            </h2>
+          <button type="button" class="btn bg-degradado-pedido">
+            <span class="font-weight-bold" width="500px">$ 129.00</span>
           </button>
       </div>
     <!--End Boton Total a pagar-->
@@ -93,22 +90,18 @@
           <br/>para recibir la información de tu pedido
         </p>
         <div class="input-group mb-3">
-            <div class="input-group-prepend">
+            <div class="input-group-prepend" width="100px">
               <span class="input-group-text" id="basic-addon1">
-                  <img src="../assets/comment-text2x.png" alt="icono lavapres" width="30px">
+                  <img src="../assets/comment-text2x.png" alt="icono mensaje" width="30px">
               </span>
             </div>
             <input type="text" class="form-control" placeholder="Numero celular">
         </div>
     <!--End Numero celular-->
-
-    <button type="button" class="btn btn-primary">Cancelar Pedido</button>
-    &nbsp;&nbsp;&nbsp;
-    <button type="button" class="btn btn-primary">
-        &nbsp;&nbsp;&nbsp;Finalizar&nbsp;&nbsp;&nbsp;</button>
-    <br/>
-    <br/>
-    <br/>
+    <p></p>
+    <button type="button" class="btn btn-primary">Cancelar</button>
+    <p></p>
+    <button type="button" class="btn btn-primary">Finalizar</button>
     <p></p>
   </div>  
 
