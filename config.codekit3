@@ -9,12 +9,44 @@
 	],
 "creatorBuild": "31491",
 "files": {
-	"/app/index.html": {
+	"/app/exito.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/app/index.html",
+		"oAP": "/app/exito.html",
+		"oF": 0
+		},
+	"/app/inicio.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/app/inicio.html",
+		"oF": 0
+		},
+	"/app/paquetes.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/app/paquetes.html",
+		"oF": 0
+		},
+	"/app/pedido.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/app/pedido.html",
+		"oF": 0
+		},
+	"/app/Splash.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/app/Splash.html",
 		"oF": 0
 		},
 	"/assets/add_shopping_cart.svg": {
@@ -49,6 +81,59 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/assets/calendario.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/calendario.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/assets/comment-text.png": {
+		"ft": 32768,
+		"iS": 449,
+		"oA": 0,
+		"oAP": "/assets/comment-text.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/comment-text.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/comment-text.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/assets/comment-text2x.png": {
+		"ft": 32768,
+		"iS": 585,
+		"oA": 0,
+		"oAP": "/assets/comment-text2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/comment-text3x.png": {
+		"ft": 32768,
+		"iS": 828,
+		"oA": 0,
+		"oAP": "/assets/comment-text3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/Copia de E.png": {
 		"ft": 32768,
 		"iS": 796,
@@ -70,6 +155,16 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/assets/icono-lavapres-blanco.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/icono-lavapres-blanco.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/assets/img-torres.png": {
 		"ft": 32768,
@@ -186,6 +281,49 @@
 		"iS": 1238,
 		"oA": 0,
 		"oAP": "/assets/logo-bco.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/logotipo-lavapres.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/logotipo-lavapres.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/assets/paquete01.png": {
+		"ft": 32768,
+		"iS": 116989,
+		"oA": 0,
+		"oAP": "/assets/paquete01.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/paquete02.png": {
+		"ft": 32768,
+		"iS": 112787,
+		"oA": 0,
+		"oAP": "/assets/paquete02.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/paquete03.png": {
+		"ft": 32768,
+		"iS": 112787,
+		"oA": 0,
+		"oAP": "/assets/paquete03.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1530,6 +1668,16 @@
 		"oA": 0,
 		"oAP": "/styleguide.html",
 		"oF": 0
+		},
+	"/styles/style-paquetes.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/styles/style-paquetes-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/styles/style.css": {
 		"aP": 1,

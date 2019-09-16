@@ -8734,6 +8734,21 @@ p {
   display: inline-block;
   margin-right: 15px; }
 
+.bg-degradado {
+  background: -prefix-linear-gradient(top, #8ED7DF, #313F99);
+  background: linear-gradient(to bottom, #8ED7DF, #313F99);
+  color: white;
+  padding: 0px 20px 0px 20px;
+  height: 50px;
+  border: none;
+  border-radius: 25px; }
+
+.mensaje-exitoso {
+  font-size: 24px; }
+
+.alto-100 {
+  height: 100vh; }
+
 .bgcloud {
   background-image: url("/lavapres/assets/bgcloud.png");
   background-repeat: no-repeat;

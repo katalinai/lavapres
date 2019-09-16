@@ -9,6 +9,7 @@ $powderblue: #b3e4e9;
 $violetred: #F6416C;
 $sweetcorn: #FCE38A;
 $titanwhite: #E7ECFF;
+$color-white: #ffffff;
 $primary: $shappire;
 $secundary: $mantle;
 $success: $darkshade;
@@ -78,5 +79,28 @@ p {
     margin-right: 15px;
 }
 
+ .bg-degradado{
+            background: -prefix-linear-gradient(top, #8ED7DF, #313F99);
+            background: linear-gradient(to bottom, #8ED7DF, #313F99);
+            color: white;
+            padding: 0px 20px 0px 20px;
+            height: 50px;
+            border: none;
+            border-radius: 25px; 
+        }  
+        .mensaje-exitoso{
+            font-size: 24px;
+        }    
+
+.alto-100{
+            height:100vh;
+        }
+
 //estilos para el home
 @import "home";
+
+
+
+
+       
+         
