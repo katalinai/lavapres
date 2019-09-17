@@ -885,7 +885,11 @@ figure {
 
 img {
   vertical-align: middle;
-  border-style: none; }
+  border-style: none; 
+  left: 50%;    
+  top: 50%;
+}
+   
 
 svg {
   overflow: hidden;
@@ -1202,7 +1206,7 @@ pre {
   margin-left: 0; }
   .no-gutters > .col,
   .no-gutters > [class*="col-"] {
-    padding-right: 0;
+    padding-right: 100;
     padding-left: 0; }
 
 .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col,
@@ -8734,25 +8738,25 @@ p {
   display: inline-block;
   margin-right: 15px; }
 
-.bg-degradado {
-  background: -prefix-linear-gradient(top, #8ED7DF, #313F99);
-  background: linear-gradient(to bottom, #8ED7DF, #313F99);
-  color: white;
-  padding: 0px 20px 0px 20px;
-  height: 50px;
-  border: none;
-  border-radius: 25px; }
-
-.mensaje-exitoso {
-  font-size: 24px; }
-
-.alto-100 {
-  height: 100vh; }
-
-.height100 {
-  height: 100vh; }
-
 .bgcloud {
   background-image: url("/lavapres/assets/bgcloud.png");
   background-repeat: no-repeat;
   background-position-x: right; }
+
+  td {
+    text-align: center; /* centrar checkbox horizontal */
+    vertical-align: middle; /* centrar checkbox vertical */
+    width: 32px;
+  height: 32px;
+  }
+  table {
+    border: NONE;
+    width: 200px;
+  }
+  tr {
+    height: 100;   
+  }
+  .content {
+    max-width: 800%;
+    margin: auto;
+  }

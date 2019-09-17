@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lavapres/app2/static/css/main.34de6062.chunk.css",
+    "main.js": "/lavapres/app2/static/js/main.4fe4f9cf.chunk.js",
+    "main.js.map": "/lavapres/app2/static/js/main.4fe4f9cf.chunk.js.map",
+    "runtime~main.js": "/lavapres/app2/static/js/runtime~main.86d5c244.js",
+    "runtime~main.js.map": "/lavapres/app2/static/js/runtime~main.86d5c244.js.map",
+    "static/js/2.f722cc72.chunk.js": "/lavapres/app2/static/js/2.f722cc72.chunk.js",
+    "static/js/2.f722cc72.chunk.js.map": "/lavapres/app2/static/js/2.f722cc72.chunk.js.map",
+    "index.html": "/lavapres/app2/index.html",
+    "precache-manifest.1cbb2d1f1fb31b567725492ba95b91b7.js": "/lavapres/app2/precache-manifest.1cbb2d1f1fb31b567725492ba95b91b7.js",
+    "service-worker.js": "/lavapres/app2/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/lavapres/app2/static/css/main.34de6062.chunk.css.map"
+  }
+}
