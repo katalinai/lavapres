@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lavapres/app2/precache-manifest.1cbb2d1f1fb31b567725492ba95b91b7.js"
+  "/lavapres/app2/precache-manifest.846ebb9497e7df384b386f171ad148b9.js"
 );
 
 self.addEventListener('message', (event) => {
